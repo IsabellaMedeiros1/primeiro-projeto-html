@@ -9,3 +9,10 @@ header{
     font-weight: bold;
     font-size: 2vh;
 }
+
+#container{
+    padding: 20px;
+}
+#conteudo{
+    line-height: 1.5;
+}
