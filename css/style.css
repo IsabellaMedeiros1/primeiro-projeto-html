@@ -24,3 +24,12 @@ button{
     background-color: blue;
     color: aliceblue;
 }
+
+form {
+    border: 1px solid gray; 
+    padding: 10px; 
+}
+
+.rodape{
+    border-top: 2px solid red;
+}
