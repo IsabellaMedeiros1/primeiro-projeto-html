@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(50, 84, 235);
+    background-color: #89CFF0;
 }
 .titulo{
     font-family: serif;
@@ -18,7 +18,7 @@ header{
 }
 
 p{
-    color: green;
+    color: rgb(97, 160, 97);
 }
 button{
     background-color: blue;
