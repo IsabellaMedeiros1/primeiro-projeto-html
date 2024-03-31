@@ -1,3 +1,11 @@
 header{
     background-color: rgb(50, 84, 235);
 }
+.titulo{
+    font-family: serif;
+}
+.menu{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2vh;
+}
