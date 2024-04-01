@@ -49,4 +49,38 @@ ul .link {
     height: 100%;
     border: 2px solid #000;
     margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+    background-color: #89CFF0;
+}
+.titulo{
+    font-family: serif;
+}
+.menu{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2vh;
+}
+
+#conteudo{
+    line-height: 1.5;
+}
+
+p{
+    color: rgb(97, 160, 97);
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+}
+
+form {
+    border: 1px solid gray; 
+    padding: 10px; 
+}
+
+.rodape{
+    border-top: 2px solid red;
 }
